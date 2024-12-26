@@ -42,6 +42,15 @@ The ERC20Token smart contract implements the ERC20 standard, enabling features l
    * **Allowance Exceeded**: Spend more than the approved allowance.
    * **Mint and Burn**: Verify changes in supply and balances.
 
+## Submissions:
+
+   * Complete all TODOs in the `ERC20Token.sol` file and commit the changes.
+   * Implement Operations & test cases in Remix IDE, capture snapshots of the results, and paste them into a document. Convert the document to PDF format.
+   * Upload the snapshots PDF by navigating to your assignment link, selecting **Add file → Upload files**.
+
+## Grading:
+
+  * The assignment carries **10 marks**: **8 marks** for TODOs and **2 marks** for snapshots.
 
 
 
