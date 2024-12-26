@@ -44,9 +44,9 @@ The ERC20Token smart contract implements the ERC20 standard, enabling features l
 
 ## Submissions:
 
-   * Complete all TODOs in the `ERC20Token.sol` file and commit the changes.
-   * Implement Operations & test cases in Remix IDE, capture snapshots of the results, and paste them into a document. Convert the document to PDF format.
-   * Upload the snapshots PDF by navigating to your assignment link, selecting **Add file → Upload files**.
+   1. Complete all TODOs in the `ERC20Token.sol` file and commit the changes.
+   2. Implement Operations & test cases in Remix IDE, capture snapshots of the results, and paste them into a document. Convert the document to PDF format.
+   3. Upload the snapshots PDF by navigating to your Github assignment repo (i.e. top of this page), select **Add file → Upload files**.
 
 ## Grading:
 
